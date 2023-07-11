@@ -1,0 +1,21 @@
+body{
+    background-color: LightYellow;
+	color:Blue;
+}
+table,tr,td,thead,th{
+    border:2px Solid Black;
+    font-size: 30px;
+    color:Black;
+    background:peachpuff;
+    margin:auto;
+}
+thead, th{
+    border:2px Solid Black;
+    font-size: 30px;
+    color:deeppink;
+    margin:auto;
+    background:yellow;
+}
+h1{
+    text-align: center;
+}
